@@ -1,0 +1,14 @@
+{
+    "welcome_message": "👋 Welcome to our bot, dear user!\n\nWith this bot, you can access useful features to manage your tasks and get updates. Use the /help command to see the list of available commands.",
+    "help_message": "Here are the available commands you can use:\n\n/start - Restart the bot and see the welcome message\n/help - Get a list of available commands\n/language - Change the bot's language\n/admin - Access the admin panel (for admins only)\n\nFeel free to explore the bot!",
+    "choose_language": "Please choose your preferred language:",
+    "language_changed": "✅ Your language has been changed successfully to English.",
+    "invalid_option": "❌ Invalid option. Please use the buttons to select a valid language.",
+    "welcome_admin_panel": "Welcome to the Admin Panel. Please choose an option below to proceed.",
+
+    "manage_users": "👤 Manage Users",
+    "send_advertisement": "📤 Send Advertisement",
+    "manage_channels": "📢 Manage Channels",
+    "show_statistics": "📊 Statistics",
+    "exit": "❌ Exit"
+}
